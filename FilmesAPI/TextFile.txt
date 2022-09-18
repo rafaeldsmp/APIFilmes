@@ -1,0 +1,2 @@
+﻿REST é o padrão e RESTful é quem segue o padrão
+
